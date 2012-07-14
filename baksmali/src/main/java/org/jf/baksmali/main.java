@@ -269,7 +269,7 @@ public class main {
                 deodex = false;
 
                 if (bootClassPath == null) {
-                    bootClassPath = "core.jar:ext.jar:framework.jar:android.policy.jar:services.jar";
+                    bootClassPath = "core.jar:ext.jar:framework.jar:framework_ext.jar:android.policy.jar:services.jar";
                 }
             }
 
